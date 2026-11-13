@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研英文忠实转译"
+  short_description: "保留英文原意，补清主语、操作对象与修饰关系，按中文表达习惯转译科研文献"
+  default_prompt: "使用 $translate-research-zh 翻译以下科研英文，保留原文描述和逻辑，补清必要的主语、指代及操作对象。"
